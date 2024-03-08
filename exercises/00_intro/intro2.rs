@@ -7,5 +7,5 @@
 
 
 fn main() {
-    printline!("Hello there!", "World")
+    println!("Hello there! {}", "World")
 }
